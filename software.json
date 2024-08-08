@@ -1,0 +1,361 @@
+[
+    {
+        "name": "Google Chrome",
+        "description": "Fast, easy-to-use, and secure web browser built for the modern web. With built-in Google tools like Google Search and Google Translate, Chrome puts the web at your fingertips. Enjoy a seamless, customizable browsing experience across all your devices.",
+        "categories": [
+            "Web browsers"
+        ],
+        "homepage": "https://www.google.com/chrome/",
+        "downloadUrl": "https://www.google.com/chrome/download/",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Google_Chrome_icon_%28February_2022%29.svg",
+        "compatibleWith": [
+            "Windows",
+            "macOS",
+            "Android",
+            "iOS",
+            "Linux"
+        ],
+        "pricing": "free",
+        "publisher": "Google"
+    },
+    {
+        "name": "Firefox",
+        "description": "Free, open-source web browser from Mozilla, designed to give you a faster, safer, and more private browsing experience. With enhanced tracking protection, customizable themes, and powerful extensions, Firefox lets you browse the web your way.",
+        "categories": [
+            "Web browsers",
+            "Futur3Sn0w Essentials"
+        ],
+        "homepage": "https://www.mozilla.org/firefox/",
+        "downloadUrl": "https://www.mozilla.org/firefox/download/",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Firefox_logo%2C_2019.svg",
+        "compatibleWith": [
+            "Windows",
+            "macOS",
+            "Android",
+            "iOS",
+            "Linux"
+        ],
+        "pricing": "free",
+        "publisher": "Mozilla"
+    },
+    {
+        "name": "Discord",
+        "description": "The ultimate communication app for communities, gamers, and friends. With voice, video, and text chat, you can connect with others easily and for free. Create and join servers, participate in communities, and stay in touch with your favorite groups.",
+        "categories": [
+            "Communication",
+            "Gaming",
+            "Futur3Sn0w Essentials"
+        ],
+        "homepage": "https://discord.com/",
+        "downloadUrl": "https://discord.com/download",
+        "iconUrl": "https://www.svgrepo.com/show/353655/discord-icon.svg",
+        "compatibleWith": [
+            "Windows",
+            "macOS",
+            "Android",
+            "iOS",
+            "Linux"
+        ],
+        "pricing": "free",
+        "publisher": "Discord Inc."
+    },
+    {
+        "name": "Visual Studio Code",
+        "description": "Free, open-source code editor by Microsoft, optimized for building and debugging modern web and cloud applications. With built-in Git support, a powerful debugger, intelligent code completion, and customizable extensions, VS Code is the ultimate tool for developers.",
+        "categories": [
+            "Development",
+            "Coding",
+            "Futur3Sn0w Essentials"
+        ],
+        "homepage": "https://code.visualstudio.com/",
+        "downloadUrl": "https://code.visualstudio.com/Download",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg",
+        "compatibleWith": [
+            "Windows",
+            "macOS",
+            "Linux"
+        ],
+        "pricing": "free",
+        "publisher": "Microsoft"
+    },
+    {
+        "name": "GitHub Desktop",
+        "description": "Seamless way to contribute to projects on GitHub and GitHub Enterprise. Streamline your development workflow with a simple and powerful interface for managing your repositories. Whether you're new to Git or a seasoned developer, GitHub Desktop makes version control easier.",
+        "categories": [
+            "Development",
+            "Productivity",
+            "Open-source"
+        ],
+        "homepage": "https://desktop.github.com/",
+        "downloadUrl": "https://desktop.github.com/download",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg",
+        "compatibleWith": [
+            "Windows",
+            "macOS",
+            "Linux"
+        ],
+        "pricing": "free",
+        "publisher": "GitHub"
+    },
+    {
+        "name": "Acronis True Image",
+        "description": "Comprehensive backup and recovery software solution that protects your data with easy-to-use, reliable tools. Backup your entire system, recover files, and ensure data security with advanced features like disk imaging and cloud backup.",
+        "categories": [
+            "Backup",
+            "Security",
+            "System"
+        ],
+        "homepage": "https://www.acronis.com/en-us/products/true-image/",
+        "downloadUrl": "https://www.acronis.com/en-us/products/true-image/trial/",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/8/86/Acronis_True_Image_2015_icon.png",
+        "compatibleWith": [
+            "Windows",
+            "macOS"
+        ],
+        "pricing": "trial",
+        "publisher": "Acronis"
+    },
+    {
+        "name": "Telegram",
+        "description": "Fast and secure messaging app that offers cloud-based communication with end-to-end encryption. Enjoy features like group chats, multimedia sharing, and bots while keeping your conversations private and accessible from any device.",
+        "categories": [
+            "Communication",
+            "Social"
+        ],
+        "homepage": "https://telegram.org/",
+        "downloadUrl": "https://desktop.telegram.org/",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg",
+        "compatibleWith": [
+            "Windows",
+            "macOS",
+            "Android",
+            "iOS",
+            "Linux"
+        ],
+        "pricing": "free",
+        "publisher": "Telegram FZ-LLC"
+    },
+    {
+        "name": "Steam",
+        "description": "The leading digital distribution platform for PC gaming. Discover, buy, and play a vast library of games and software, connect with friends, and enjoy features like cloud saves and in-game overlays with the Steam client.",
+        "categories": [
+            "Gaming",
+            "Entertainment"
+        ],
+        "homepage": "https://store.steampowered.com/",
+        "downloadUrl": "https://store.steampowered.com/about/",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg",
+        "compatibleWith": [
+            "Windows",
+            "macOS",
+            "Linux"
+        ],
+        "pricing": "free",
+        "publisher": "Valve Corporation"
+    },
+    {
+        "name": "Touch Mouse Tools",
+        "description": "Provides a better usability experience on Windows when using multiple monitors, particularly where a mouse/keyboard and touchscreen are in use together. It's particularly useful when using a secondary touchscreen as a control panel while controlling your main monitor via a mouse & keyboard.",
+        "categories": [
+            "Productivity",
+            "Utilities",
+            "Gaming",
+            "System"
+        ],
+        "homepage": "http://touchmousetools.com/",
+        "compatibleWith": [
+            "Windows"
+        ],
+        "pricing": "free",
+        "publisher": "Orpheus Internet UK"
+    },
+    {
+        "name": "Windhawk",
+        "description": "A versatile hub of tweaks that modify Windows system behaviors and settings. Customize your Windows experience with an array of tweaks and tools designed to enhance your system's functionality and usability.",
+        "categories": [
+            "Utilities",
+            "Customization",
+            "System"
+        ],
+        "homepage": "https://windhawk.net/",
+        "iconUrl": "https://windhawk.net/static/media/logo-white.07a58d84.svg",
+        "compatibleWith": [
+            "Windows"
+        ],
+        "pricing": "free",
+        "publisher": "Ramen Software"
+    },
+    {
+        "name": "Google Quick Share",
+        "description": "Simplifies file sharing between your Windows PC and other Android devices. Easily send and receive files, photos, and more with just a few clicks, seamlessly integrating with your Google account and other Google services.",
+        "categories": [
+            "Productivity",
+            "File Sharing",
+            "Futur3Sn0w Essentials"
+        ],
+        "homepage": "https://www.android.com/better-together/quick-share-app/",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Quickshare.svg",
+        "compatibleWith": [
+            "Windows"
+        ],
+        "pricing": "free",
+        "publisher": "Google"
+    },
+    {
+        "name": "Magic Utilities",
+        "description": "Magic Utilities offers enhanced functionality and customization for Apple's Magic Mouse on Windows. Adjust settings, configure gestures, and optimize your mouse experience to fit your workflow with this intuitive utility.",
+        "categories": [
+            "Utilities",
+            "Productivity",
+            "System"
+        ],
+        "homepage": "https://magicutilities.net/",
+        "downloadUrl": "https://magicutilities.net/download",
+        "iconUrl": "https://cms-bcdn.magicutilities.net/images/mouse/MouseMiddleButton.svg",
+        "compatibleWith": [
+            "Windows"
+        ],
+        "pricing": "trial",
+        "publisher": "Magic Utilities Pty Ltd"
+    },
+    {
+        "name": "ViveTool",
+        "description": "A powerful tool for managing and customizing Windows features and settings. Ideal for advanced users, it allows you to enable or disable hidden features, tweaks, and experimental options to enhance your Windows experience.",
+        "categories": [
+            "Utilities",
+            "Customization",
+            "System",
+            "Open-source"
+        ],
+        "homepage": "https://github.com/thebookisclosed/ViVe",
+        "downloadUrl": "https://github.com/thebookisclosed/ViVe/releases",
+        "compatibleWith": [
+            "Windows"
+        ],
+        "pricing": "free",
+        "publisher": "thebookisclosed"
+    },
+    {
+        "name": "Stardock Start11",
+        "description": "Comprehensive Start Menu replacement for Windows that brings back classic Start Menu functionality and customization options. Enhance your productivity with a Start Menu designed to fit your preferences and improve your workflow.",
+        "categories": [
+            "Utilities",
+            "Customization"
+        ],
+        "homepage": "https://www.stardock.com/products/start11/",
+        "downloadUrl": "https://www.stardock.com/products/start11/download/",
+        "iconUrl": "https://www.stardock.com/products/start11/images/top/s11-v2-icon-version.png",
+        "compatibleWith": [
+            "Windows"
+        ],
+        "pricing": "trial",
+        "publisher": "Stardock"
+    },
+    {
+        "name": "FancyWM",
+        "description": "Customize your Windows window management experience. Tailor your window behavior, add unique features, and optimize your workflow with this innovative window manager.",
+        "categories": [
+            "Utilities",
+            "Productivity",
+            "System",
+            "Futur3Sn0w Essentials",
+            "Open-source"
+        ],
+        "homepage": "https://github.com/FancyWM/fancywm",
+        "downloadUrl": "https://apps.microsoft.com/detail/9p1741lkhqs9?hl=en-US&gl=US",
+        "iconUrl": "https://d4.alternativeto.net/lf8rY2HXkCqBzs_GOx7VY3IlTN-JjOjIpus4pNbvQm0/rs:fit:280:280:0/g:ce:0:0/exar:1/YWJzOi8vZGlzdC9pY29ucy9mYW5jeXdtXzIwMDM1My5wbmc.png",
+        "compatibleWith": [
+            "Windows"
+        ],
+        "pricing": "free",
+        "publisher": "Vesko"
+    },
+    {
+        "name": "Auto Dark Mode",
+        "description": "Automatically switch between light and dark themes based on your preferences or system settings. Enjoy a consistent and comfortable visual experience throughout the day.",
+        "categories": [
+            "Utilities",
+            "Customization",
+            "System",
+            "Futur3Sn0w Essentials",
+            "Open-source"
+        ],
+        "homepage": "https://github.com/AutoDarkMode/Windows-Auto-Night-Mode",
+        "downloadUrl": "https://apps.microsoft.com/detail/xp8jk4hzbvf435?hl=en-US&gl=US",
+        "iconUrl": "https://avatars.githubusercontent.com/u/89929298?s=200&v=4",
+        "compatibleWith": [
+            "Windows"
+        ],
+        "pricing": "free",
+        "publisher": "Spiritreader"
+    },
+    {
+        "name": "AccentColorizer",
+        "description": "Colorize Windows with accent color of your choice - without modifying system files. AccentColorizer patches Windows theme data in-memory and recolorizes everything as soon as you change the accent color. Supports Windows Vista and higher.",
+        "categories": [
+            "Customization",
+            "Utilities",
+            "Open-source"
+        ],
+        "homepage": "https://github.com/krlvm/AccentColorizer",
+        "downloadUrl": "https://github.com/krlvm/AccentColorizer/releases",
+        "compatibleWith": [
+            "Windows"
+        ],
+        "pricing": "free",
+        "publisher": "krlvm"
+    },
+    {
+        "name": "OpenGlass",
+        "description": "A replica of the dead software Glass8, also known as the upstream project of DWMBlurGlass. Works for Windows 10 1809 to Windows 11 23H2, with a 'legacy' version available for Windows versions below 11.",
+        "categories": [
+            "Customization",
+            "Utilities",
+            "Open-source"
+        ],
+        "homepage": "https://github.com/ALTaleX531/OpenGlass",
+        "downloadUrl": "https://github.com/ALTaleX531/OpenGlass/releases",
+        "compatibleWith": [
+            "Windows"
+        ],
+        "pricing": "free",
+        "publisher": "ALTaleX531"
+    },
+    {
+        "name": "EmuDeck",
+        "description": "EmuDeck is a collection of scripts that allows you to autoconfigure your Steam Deck or any other Linux Distro. It creates your ROMs directory structure and downloads all of the needed emulators for you, along with the best configurations for each of them. EmuDeck works great with Steam Rom Manager or with EmulationStation DE.",
+        "categories": [
+            "Utilities",
+            "Gaming",
+            "Open-source"
+        ],
+        "homepage": "https://www.emudeck.com/",
+        "downloadUrl": "https://www.emudeck.com/#downloads",
+        "iconUrl": "https://pbs.twimg.com/profile_images/1783864179352301568/a-UUoBim_400x400.jpg",
+        "compatibleWith": [
+            "Windows",
+            "Linux",
+            "macOS",
+            "Android"
+        ],
+        "pricing": "free",
+        "publisher": "dragoonDorise"
+    },
+    {
+        "name": "HandheldCompanion",
+        "description": "Handheld Companion is a portable controller, keyboard, and mouse emulation suite, providing advanced controls and customization options for handheld gaming devices. Tailor your gaming experience with features such as controller mapping, profiles, and system monitoring, all within an intuitive interface.",
+        "categories": [
+            "Utilities",
+            "Gaming",
+            "Open-source"
+        ],
+        "homepage": "https://github.com/Valkirie/HandheldCompanion",
+        "downloadUrl": "https://github.com/Valkirie/HandheldCompanion/releases",
+        "iconUrl": "https://c10.patreonusercontent.com/4/patreon-media/p/campaign/1891632/2c8fdc9b09d3453095a6e266bc1b7765/eyJ3IjoyMDB9/4.jpeg?token-time=2145916800&token-hash=Aow-rVUXpA5MPpeCyqMCvbK5u6mK5KqEkonyLEXBdzU%3D",
+        "compatibleWith": [
+            "Windows"
+        ],
+        "pricing": "free",
+        "publisher": "Valkirie"
+    }
+]
