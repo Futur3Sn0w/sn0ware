@@ -1,0 +1,40 @@
+v0.1.0
+- Meta:
+  - (New) Added 8 apps to main repository
+  - (New) Design and animations inspired by Material Design 3 and the Windows Store
+  - (New) Blue color scheme inspired by Material You
+  - (Removed) No longer using Masonry library
+- Header:
+  - (New) Total app count badge in header
+  - Search:
+    - (New) Design inspired by Windows taskbar & search UIs
+    - (Updated) Click to open search box
+- Software list:
+  - (New) 'Context header':
+    - Shows tips, information on current view, total app count, and view toggle
+    - Details what/how items are filtered when a filter is selected
+  - (New) View toggle:
+    - Switch between layouts/views for the software list
+    - Defaults to card view; a list view is also available
+    - Selected view saves when returning to site
+  - Items:
+    - (New) Consistent/global height
+    - (New) Notes/"From Sn0w": Short snippets of usage info or other tips I've come across in various apps
+    - (Updated) Refined animation(s)
+    - (Updated) Better pricing badges show if apps have a trial, or are otherwise 'freemium'
+    - (Removed) Shows categories on hover
+    - (Removed) On-card buttons; open to view downloads & links
+    - Badges:
+      - (New) Green check badge next to publisher for items compatible with your OS
+      - (New) Purple GitHub badge next to open source items
+- Expanded view:
+  - (New) Reimagined layout
+  - (New) Click the publisher label in the expanded view to visit the publisher's about/home page
+  - (New) Apps can now surface links for various channels or download hosts (GitHub/Windows Store/etc)
+  - (Updated) Much larger app icon and information
+- Sidebar:
+  - Categories:
+    - (New) Now expandable; collapsed by default
+    - (New) 'Compatibility' filter; filtering by OS
+    - (Updated) Refined filters for better grouping
+    - (Updated) Refined clear-filter button appearance

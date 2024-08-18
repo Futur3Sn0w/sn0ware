@@ -2,360 +2,577 @@
     {
         "name": "Google Chrome",
         "description": "Fast, easy-to-use, and secure web browser built for the modern web. With built-in Google tools like Google Search and Google Translate, Chrome puts the web at your fingertips. Enjoy a seamless, customizable browsing experience across all your devices.",
+        "notes": "",
+        "publisher": "Google",
+        "publisherURL": "https://about.google/",
+        "pricing": "free",
+        "homepage": "https://www.google.com/chrome/",
+        "downloadUrl-A": "Download Stable,https://www.google.com/chrome/",
+        "downloadUrl-B": "Download Beta,https://www.google.com/chrome/beta/",
+        "downloadUrl-C": "Download Dev,https://www.google.com/chrome/dev/",
+        "downloadUrl-D": "Download Canary,https://www.google.com/chrome/canary/",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Google_Chrome_icon_%28February_2022%29.svg",
         "categories": [
             "Web browsers"
         ],
-        "homepage": "https://www.google.com/chrome/",
-        "downloadUrl": "https://www.google.com/chrome/download/",
-        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Google_Chrome_icon_%28February_2022%29.svg",
         "compatibleWith": [
             "Windows",
             "macOS",
             "Android",
             "iOS",
             "Linux"
-        ],
-        "pricing": "free",
-        "publisher": "Google"
+        ]
     },
     {
         "name": "Firefox",
         "description": "Free, open-source web browser from Mozilla, designed to give you a faster, safer, and more private browsing experience. With enhanced tracking protection, customizable themes, and powerful extensions, Firefox lets you browse the web your way.",
+        "notes": "Some of us really love tinkering and tweaking every detail of their UI. Firefox's unique ability to customize the browser chrome via userChrome.css tweaks allows for extensive UI adjustment across the entire browser, making it one of my go-to recommendations for customizers!",
+        "publisher": "Mozilla",
+        "publisherURL": "https://www.mozilla.org",
+        "pricing": "free",
+        "homepage": "https://www.mozilla.org/firefox/",
+        "downloadUrl-A": "Download Stable,https://www.mozilla.org/en-US/firefox/new/",
+        "downloadUrl-B": "Download Beta,https://www.mozilla.org/en-US/firefox/channel/desktop/#beta",
+        "downloadUrl-C": "Download Developer,https://www.mozilla.org/en-US/firefox/channel/desktop/#developer",
+        "downloadUrl-D": "Download Nightly,https://www.mozilla.org/en-US/firefox/channel/desktop/#nightly",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Firefox_logo%2C_2019.svg",
         "categories": [
             "Web browsers",
             "Futur3Sn0w Essentials"
         ],
-        "homepage": "https://www.mozilla.org/firefox/",
-        "downloadUrl": "https://www.mozilla.org/firefox/download/",
-        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Firefox_logo%2C_2019.svg",
         "compatibleWith": [
             "Windows",
             "macOS",
             "Android",
             "iOS",
             "Linux"
-        ],
-        "pricing": "free",
-        "publisher": "Mozilla"
+        ]
     },
     {
         "name": "Discord",
         "description": "The ultimate communication app for communities, gamers, and friends. With voice, video, and text chat, you can connect with others easily and for free. Create and join servers, participate in communities, and stay in touch with your favorite groups.",
+        "notes": "",
+        "publisher": "Discord Inc.",
+        "publisherURL": "https://discord.com/company",
+        "pricing": "free",
+        "homepage": "https://discord.com/",
+        "downloadUrl-A": "Download Stable,https://discord.com/download",
+        "downloadUrl-B": "Download PTB,https://ptb.discord.com/",
+        "downloadUrl-C": "Download Canary,https://canary.discord.com/",
+        "iconUrl": "https://www.svgrepo.com/show/353655/discord-icon.svg",
         "categories": [
-            "Communication",
+            "Social",
             "Gaming",
+            "Web based",
             "Futur3Sn0w Essentials"
         ],
-        "homepage": "https://discord.com/",
-        "downloadUrl": "https://discord.com/download",
-        "iconUrl": "https://www.svgrepo.com/show/353655/discord-icon.svg",
         "compatibleWith": [
             "Windows",
             "macOS",
             "Android",
             "iOS",
             "Linux"
-        ],
-        "pricing": "free",
-        "publisher": "Discord Inc."
+        ]
     },
     {
         "name": "Visual Studio Code",
         "description": "Free, open-source code editor by Microsoft, optimized for building and debugging modern web and cloud applications. With built-in Git support, a powerful debugger, intelligent code completion, and customizable extensions, VS Code is the ultimate tool for developers.",
+        "notes": "",
+        "publisher": "Microsoft",
+        "publisherURL": "https://www.microsoft.com/en-us/about",
+        "pricing": "free",
+        "homepage": "https://code.visualstudio.com/",
+        "downloadUrl-A": "Download Stable,https://code.visualstudio.com/Download",
+        "downloadUrl-B": "Download Insiders,https://code.visualstudio.com/insiders",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg",
         "categories": [
             "Development",
-            "Coding",
+            "Web based",
             "Futur3Sn0w Essentials"
         ],
-        "homepage": "https://code.visualstudio.com/",
-        "downloadUrl": "https://code.visualstudio.com/Download",
-        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg",
         "compatibleWith": [
             "Windows",
             "macOS",
             "Linux"
-        ],
-        "pricing": "free",
-        "publisher": "Microsoft"
+        ]
     },
     {
         "name": "GitHub Desktop",
         "description": "Seamless way to contribute to projects on GitHub and GitHub Enterprise. Streamline your development workflow with a simple and powerful interface for managing your repositories. Whether you're new to Git or a seasoned developer, GitHub Desktop makes version control easier.",
+        "notes": "",
+        "publisher": "GitHub",
+        "publisherURL": "https://github.com/about",
+        "pricing": "free",
+        "homepage": "https://desktop.github.com/",
+        "downloadUrl-A": "Download Stable,https://desktop.github.com/download",
+        "downloadUrl-B": "Download Beta,https://desktop.github.com/beta",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg",
         "categories": [
             "Development",
-            "Productivity",
             "Open-source"
         ],
-        "homepage": "https://desktop.github.com/",
-        "downloadUrl": "https://desktop.github.com/download",
-        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg",
         "compatibleWith": [
             "Windows",
             "macOS",
             "Linux"
-        ],
-        "pricing": "free",
-        "publisher": "GitHub"
+        ]
     },
     {
         "name": "Acronis True Image",
         "description": "Comprehensive backup and recovery software solution that protects your data with easy-to-use, reliable tools. Backup your entire system, recover files, and ensure data security with advanced features like disk imaging and cloud backup.",
-        "categories": [
-            "Backup",
-            "Security",
-            "System"
-        ],
+        "notes": "It's not often I need a tool that can clone my entire disk, but if/when I do, Acronis has the easiest tools I could need to backup and/or recover a system entirely from start to finish. The ease-of-use can't be overstated here, it's incredibly handy to have such a powerful tool in your back pocket.",
+        "publisher": "Acronis",
+        "publisherURL": "https://www.acronis.com/en-us/company/",
+        "pricing": "trial",
         "homepage": "https://www.acronis.com/en-us/products/true-image/",
         "downloadUrl": "https://www.acronis.com/en-us/products/true-image/trial/",
         "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/8/86/Acronis_True_Image_2015_icon.png",
+        "categories": [
+            "System tools",
+            "Multi-tools"
+        ],
         "compatibleWith": [
             "Windows",
             "macOS"
-        ],
-        "pricing": "trial",
-        "publisher": "Acronis"
+        ]
     },
     {
         "name": "Telegram",
         "description": "Fast and secure messaging app that offers cloud-based communication with end-to-end encryption. Enjoy features like group chats, multimedia sharing, and bots while keeping your conversations private and accessible from any device.",
-        "categories": [
-            "Communication",
-            "Social"
-        ],
+        "notes": "",
+        "publisher": "Telegram FZ-LLC",
+        "publisherURL": "https://telegram.org/faq",
+        "pricing": "free",
         "homepage": "https://telegram.org/",
         "downloadUrl": "https://desktop.telegram.org/",
         "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg",
+        "categories": [
+            "Social",
+            "Web based",
+            "Open-source"
+        ],
         "compatibleWith": [
             "Windows",
             "macOS",
             "Android",
             "iOS",
             "Linux"
-        ],
-        "pricing": "free",
-        "publisher": "Telegram FZ-LLC"
+        ]
     },
     {
         "name": "Steam",
         "description": "The leading digital distribution platform for PC gaming. Discover, buy, and play a vast library of games and software, connect with friends, and enjoy features like cloud saves and in-game overlays with the Steam client.",
-        "categories": [
-            "Gaming",
-            "Entertainment"
-        ],
+        "notes": "",
+        "publisher": "Valve Corporation",
+        "publisherURL": "http://www.valvesoftware.com/about",
+        "pricing": "free",
         "homepage": "https://store.steampowered.com/",
         "downloadUrl": "https://store.steampowered.com/about/",
         "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg",
+        "categories": [
+            "Gaming",
+            "Social"
+        ],
         "compatibleWith": [
             "Windows",
             "macOS",
             "Linux"
-        ],
-        "pricing": "free",
-        "publisher": "Valve Corporation"
+        ]
     },
     {
         "name": "Touch Mouse Tools",
-        "description": "Provides a better usability experience on Windows when using multiple monitors, particularly where a mouse/keyboard and touchscreen are in use together. It's particularly useful when using a secondary touchscreen as a control panel while controlling your main monitor via a mouse & keyboard.",
+        "description": "Provides better usability on Windows when using multiple monitors, particularly where a mouse/keyboard and touchscreen are in use together. It's particularly useful when using a secondary touchscreen as a control panel while controlling your main monitor via a mouse & keyboard.",
+        "notes": "I discovered this app while looking for a dashboard tool for the Steam Deck while it's docked in Windows. You can interact with the internal touch screen without moving the mouse cursor on an external display. You can also prevent the cursor from dragging/moving to the touch display; helpful if you have a dashboard showing.",
+        "publisher": "Orpheus Internet UK",
+        "publisherURL": "https://touchmousetools.com/company-information/",
+        "pricing": "free",
+        "homepage": "http://touchmousetools.com/",
+        "iconUrl": "",
         "categories": [
-            "Productivity",
             "Utilities",
             "Gaming",
-            "System"
+            "System tools"
         ],
-        "homepage": "http://touchmousetools.com/",
         "compatibleWith": [
             "Windows"
-        ],
-        "pricing": "free",
-        "publisher": "Orpheus Internet UK"
+        ]
     },
     {
         "name": "Windhawk",
         "description": "A versatile hub of tweaks that modify Windows system behaviors and settings. Customize your Windows experience with an array of tweaks and tools designed to enhance your system's functionality and usability.",
-        "categories": [
-            "Utilities",
-            "Customization",
-            "System"
-        ],
+        "notes": "",
+        "publisher": "Ramen Software",
+        "publisherURL": "https://ramensoftware.com/",
+        "pricing": "free",
         "homepage": "https://windhawk.net/",
         "iconUrl": "https://windhawk.net/static/media/logo-white.07a58d84.svg",
+        "categories": [
+            "Customization",
+            "System tools",
+            "Web based",
+            "Multi-tools"
+        ],
         "compatibleWith": [
             "Windows"
-        ],
-        "pricing": "free",
-        "publisher": "Ramen Software"
+        ]
     },
     {
         "name": "Google Quick Share",
         "description": "Simplifies file sharing between your Windows PC and other Android devices. Easily send and receive files, photos, and more with just a few clicks, seamlessly integrating with your Google account and other Google services.",
-        "categories": [
-            "Productivity",
-            "File Sharing",
-            "Futur3Sn0w Essentials"
-        ],
+        "notes": "",
+        "publisher": "Google",
+        "publisherURL": "https://about.google/",
+        "pricing": "free",
         "homepage": "https://www.android.com/better-together/quick-share-app/",
         "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Quickshare.svg",
+        "categories": [
+            "Web based",
+            "Futur3Sn0w Essentials"
+        ],
         "compatibleWith": [
             "Windows"
-        ],
-        "pricing": "free",
-        "publisher": "Google"
+        ]
     },
     {
         "name": "Magic Utilities",
-        "description": "Magic Utilities offers enhanced functionality and customization for Apple's Magic Mouse on Windows. Adjust settings, configure gestures, and optimize your mouse experience to fit your workflow with this intuitive utility.",
-        "categories": [
-            "Utilities",
-            "Productivity",
-            "System"
-        ],
+        "description": "Enhanced functionality and customization for Apple's Magic Mice, Keyboards, and Trackpads on Windows. Adjust settings, configure gestures, and optimize your mouse experience to fit your workflow with this intuitive utility.",
+        "notes": "",
+        "publisher": "Magic Utilities Pty Ltd",
+        "pricing": "trial",
         "homepage": "https://magicutilities.net/",
         "downloadUrl": "https://magicutilities.net/download",
         "iconUrl": "https://cms-bcdn.magicutilities.net/images/mouse/MouseMiddleButton.svg",
+        "categories": [
+            "Utilities",
+            "System tools"
+        ],
         "compatibleWith": [
             "Windows"
-        ],
-        "pricing": "trial",
-        "publisher": "Magic Utilities Pty Ltd"
+        ]
     },
     {
         "name": "ViveTool",
-        "description": "A powerful tool for managing and customizing Windows features and settings. Ideal for advanced users, it allows you to enable or disable hidden features, tweaks, and experimental options to enhance your Windows experience.",
+        "description": "Powerful tool for managing and customizing Windows features and settings. Ideal for advanced users, it allows you to enable or disable hidden features, tweaks, and experimental options to enhance your Windows experience.",
+        "notes": "",
+        "publisher": "thebookisclosed",
+        "publisherURL": "https://github.com/thebookisclosed/",
+        "pricing": "free",
+        "homepage": "https://github.com/thebookisclosed/ViVe",
+        "downloadUrl": "https://github.com/thebookisclosed/ViVe/releases",
         "categories": [
             "Utilities",
             "Customization",
-            "System",
+            "System tools",
             "Open-source"
         ],
-        "homepage": "https://github.com/thebookisclosed/ViVe",
-        "downloadUrl": "https://github.com/thebookisclosed/ViVe/releases",
         "compatibleWith": [
             "Windows"
-        ],
-        "pricing": "free",
-        "publisher": "thebookisclosed"
+        ]
     },
     {
         "name": "Stardock Start11",
         "description": "Comprehensive Start Menu replacement for Windows that brings back classic Start Menu functionality and customization options. Enhance your productivity with a Start Menu designed to fit your preferences and improve your workflow.",
-        "categories": [
-            "Utilities",
-            "Customization"
-        ],
+        "notes": "",
+        "publisher": "Stardock",
+        "publisherURL": "https://www.stardock.com/",
+        "pricing": "trial",
         "homepage": "https://www.stardock.com/products/start11/",
         "downloadUrl": "https://www.stardock.com/products/start11/download/",
         "iconUrl": "https://www.stardock.com/products/start11/images/top/s11-v2-icon-version.png",
+        "categories": [
+            "System tools",
+            "Customization",
+            "Multi-tools"
+        ],
         "compatibleWith": [
             "Windows"
-        ],
-        "pricing": "trial",
-        "publisher": "Stardock"
+        ]
     },
     {
         "name": "FancyWM",
         "description": "Customize your Windows window management experience. Tailor your window behavior, add unique features, and optimize your workflow with this innovative window manager.",
-        "categories": [
-            "Utilities",
-            "Productivity",
-            "System",
-            "Futur3Sn0w Essentials",
-            "Open-source"
-        ],
+        "notes": "",
+        "publisher": "Vesko",
+        "publisherURL": "https://buymeacoffee.com/vesko",
+        "pricing": "free",
         "homepage": "https://github.com/FancyWM/fancywm",
         "downloadUrl": "https://apps.microsoft.com/detail/9p1741lkhqs9?hl=en-US&gl=US",
         "iconUrl": "https://d4.alternativeto.net/lf8rY2HXkCqBzs_GOx7VY3IlTN-JjOjIpus4pNbvQm0/rs:fit:280:280:0/g:ce:0:0/exar:1/YWJzOi8vZGlzdC9pY29ucy9mYW5jeXdtXzIwMDM1My5wbmc.png",
+        "categories": [
+            "Utilities",
+            "System tools",
+            "Futur3Sn0w Essentials",
+            "Open-source"
+        ],
         "compatibleWith": [
             "Windows"
-        ],
-        "pricing": "free",
-        "publisher": "Vesko"
+        ]
     },
     {
         "name": "Auto Dark Mode",
         "description": "Automatically switch between light and dark themes based on your preferences or system settings. Enjoy a consistent and comfortable visual experience throughout the day.",
+        "notes": "This is a MUST HAVE for quickly switching between light & dark mode in Windows. I love setting it to match Windows' Night Light switch, so I can toggle it from the control/action center.",
+        "publisher": "Armin2208",
+        "publisherURL": " http://arminosaj.de/",
+        "pricing": "free",
+        "homepage": "https://github.com/AutoDarkMode/Windows-Auto-Night-Mode",
+        "downloadUrl-A": "Download (GitHub),https://github.com/Armin2208/Windows-Auto-Night-Mode/releases/latest",
+        "downloadUrl-B": "Download (Windows Store),https://apps.microsoft.com/detail/xp8jk4hzbvf435?hl=en-US&gl=US",
+        "iconUrl": "https://avatars.githubusercontent.com/u/89929298?s=200&v=4",
         "categories": [
             "Utilities",
             "Customization",
-            "System",
+            "System tools",
             "Futur3Sn0w Essentials",
             "Open-source"
         ],
-        "homepage": "https://github.com/AutoDarkMode/Windows-Auto-Night-Mode",
-        "downloadUrl": "https://apps.microsoft.com/detail/xp8jk4hzbvf435?hl=en-US&gl=US",
-        "iconUrl": "https://avatars.githubusercontent.com/u/89929298?s=200&v=4",
         "compatibleWith": [
             "Windows"
-        ],
-        "pricing": "free",
-        "publisher": "Spiritreader"
+        ]
     },
     {
         "name": "AccentColorizer",
         "description": "Colorize Windows with accent color of your choice - without modifying system files. AccentColorizer patches Windows theme data in-memory and recolorizes everything as soon as you change the accent color. Supports Windows Vista and higher.",
+        "notes": "AC brings me so much joy it's unreal 😂 I encourage reading up on the GitHub page, as there's more accent-color tweaks that can be made if you're on Windows 11!",
+        "publisher": "krlvm",
+        "publisherURL": "https://github.com/krlvm/",
+        "pricing": "free",
+        "homepage": "https://github.com/krlvm/AccentColorizer",
+        "downloadUrl": "https://github.com/krlvm/AccentColorizer/releases",
         "categories": [
             "Customization",
             "Utilities",
             "Open-source"
         ],
-        "homepage": "https://github.com/krlvm/AccentColorizer",
-        "downloadUrl": "https://github.com/krlvm/AccentColorizer/releases",
         "compatibleWith": [
             "Windows"
-        ],
-        "pricing": "free",
-        "publisher": "krlvm"
+        ]
     },
     {
         "name": "OpenGlass",
         "description": "A replica of the dead software Glass8, also known as the upstream project of DWMBlurGlass. Works for Windows 10 1809 to Windows 11 23H2, with a 'legacy' version available for Windows versions below 11.",
+        "notes": "I only came across OpenGlass recently, but I wish I'd known about it sooner! I love transparency effects, and if you explore the GitHub, you'll find lots of great tips and tricks to adjusting the look just how you like!",
+        "publisher": "ALTaleX531",
+        "publisherURL": "https://github.com/ALTaleX531/",
+        "pricing": "free",
+        "homepage": "https://github.com/ALTaleX531/OpenGlass",
+        "downloadUrl": "https://github.com/ALTaleX531/OpenGlass/releases",
         "categories": [
             "Customization",
             "Utilities",
             "Open-source"
         ],
-        "homepage": "https://github.com/ALTaleX531/OpenGlass",
-        "downloadUrl": "https://github.com/ALTaleX531/OpenGlass/releases",
         "compatibleWith": [
             "Windows"
-        ],
-        "pricing": "free",
-        "publisher": "ALTaleX531"
+        ]
     },
     {
         "name": "EmuDeck",
-        "description": "EmuDeck is a collection of scripts that allows you to autoconfigure your Steam Deck or any other Linux Distro. It creates your ROMs directory structure and downloads all of the needed emulators for you, along with the best configurations for each of them. EmuDeck works great with Steam Rom Manager or with EmulationStation DE.",
-        "categories": [
-            "Utilities",
-            "Gaming",
-            "Open-source"
-        ],
+        "description": "Collection of scripts that allows you to autoconfigure your Steam Deck or any other Linux Distro. It creates your ROMs directory structure and downloads all of the needed emulators for you, along with the best configurations for each of them. EmuDeck works great with Steam Rom Manager or with EmulationStation DE.",
+        "notes": "",
+        "publisher": "dragoonDorise",
+        "publisherURL": "https://www.patreon.com/dragoondorise/about?",
+        "pricing": "free",
         "homepage": "https://www.emudeck.com/",
         "downloadUrl": "https://www.emudeck.com/#downloads",
         "iconUrl": "https://pbs.twimg.com/profile_images/1783864179352301568/a-UUoBim_400x400.jpg",
+        "categories": [
+            "Gaming",
+            "Web based",
+            "Open-source"
+        ],
         "compatibleWith": [
             "Windows",
             "Linux",
             "macOS",
             "Android"
-        ],
-        "pricing": "free",
-        "publisher": "dragoonDorise"
+        ]
     },
     {
         "name": "HandheldCompanion",
-        "description": "Handheld Companion is a portable controller, keyboard, and mouse emulation suite, providing advanced controls and customization options for handheld gaming devices. Tailor your gaming experience with features such as controller mapping, profiles, and system monitoring, all within an intuitive interface.",
+        "description": "Portable controller, keyboard, and mouse emulation suite, providing advanced controls and customization options for handheld gaming devices. Tailor your gaming experience with features such as controller mapping, profiles, and system monitoring, all within an intuitive interface.",
+        "notes": "",
+        "publisher": "Valkirie",
+        "publisherURL": "https://github.com/Valkirie/",
+        "pricing": "free",
+        "homepage": "https://github.com/Valkirie/HandheldCompanion",
+        "downloadUrl": "https://github.com/Valkirie/HandheldCompanion/releases",
+        "iconUrl": "https://c10.patreonusercontent.com/4/patreon-media/p/campaign/1891632/2c8fdc9b09d3453095a6e266bc1b7765/eyJ3IjoyMDB9/4.jpeg?token-time=2145916800&token-hash=Aow-rVUXpA5MPpeCyqMCvbK5u6mK5KqEkonyLEXBdzU%3D",
         "categories": [
             "Utilities",
             "Gaming",
             "Open-source"
         ],
-        "homepage": "https://github.com/Valkirie/HandheldCompanion",
-        "downloadUrl": "https://github.com/Valkirie/HandheldCompanion/releases",
-        "iconUrl": "https://c10.patreonusercontent.com/4/patreon-media/p/campaign/1891632/2c8fdc9b09d3453095a6e266bc1b7765/eyJ3IjoyMDB9/4.jpeg?token-time=2145916800&token-hash=Aow-rVUXpA5MPpeCyqMCvbK5u6mK5KqEkonyLEXBdzU%3D",
         "compatibleWith": [
             "Windows"
+        ]
+    },
+    {
+        "name": "Beeper Messenger",
+        "description": "Unified messaging app that combines all your messaging platforms into one. It supports a wide range of services, including iMessage, WhatsApp, Facebook Messenger, and more. Beeper aims to streamline your communication by bringing all your conversations together in a single interface.",
+        "notes": "",
+        "publisher": "Beeper Inc.",
+        "publisherURL": "https://blog.beeper.com/2020/06/09/the-universal-communication-bus-42dfb9a141ad/",
+        "pricing": "freemium",
+        "homepage": "https://www.beeper.com/",
+        "downloadUrl": "https://www.beeper.com/download",
+        "iconUrl": "https://avatars.githubusercontent.com/u/74791520?s=280&v=4",
+        "categories": [
+            "Social",
+            "Web based"
         ],
+        "compatibleWith": [
+            "Windows",
+            "macOS",
+            "Linux",
+            "Android",
+            "iOS"
+        ]
+    },
+    {
+        "name": "Revo Uninstaller",
+        "description": "Helps you thoroughly remove unwanted programs and their leftover files from your system. It provides advanced scanning algorithms to detect and remove remnants of uninstalled software, offering a more complete cleanup compared to standard uninstallation processes.",
+        "notes": "Once upon a time, CCleaner was the best in the business when it came to clearing junk files and otherwise cleaning temporary data from your PC. Since it was bought out and filled with popups, my grandmother recommended Revo as an alternative with even more helpful tools & info, and NO popups!",
+        "publisher": "VS Revo Group",
+        "publisherURL": "https://www.vsrevogroup.com/",
+        "pricing": "freemium",
+        "homepage": "https://www.revouninstaller.com/",
+        "downloadUrl": "https://www.revouninstaller.com/revo-uninstaller-free-download/",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/8/83/Revouninstallerpro_icon.png",
+        "categories": [
+            "Utilities",
+            "System tools",
+            "Multi-tools"
+        ],
+        "compatibleWith": [
+            "Windows"
+        ]
+    },
+    {
+        "name": "Microsoft PowerToys",
+        "description": "A set of tools for power users to tune and streamline their Windows experience for greater productivity. PowerToys includes tools like FancyZones, PowerRename, and more, enabling customization and advanced functionality for Windows users.",
+        "notes": "",
+        "publisher": "Microsoft",
+        "publisherURL": "https://www.microsoft.com/en-us/about",
         "pricing": "free",
-        "publisher": "Valkirie"
+        "homepage": "https://learn.microsoft.com/en-us/windows/powertoys/",
+        "downloadUrl-A": "Download (GitHub),https://github.com/microsoft/PowerToys/releases",
+        "downloadUrl-B": "Download (Windows Store),https://apps.microsoft.com/detail/xp89dcgq3k6vld?hl=en-US&gl=US",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2b/2020_PowerToys_Icon.svg",
+        "categories": [
+            "Utilities",
+            "Customization",
+            "System tools",
+            "Open-source",
+            "Multi-tools"
+        ],
+        "compatibleWith": [
+            "Windows"
+        ]
+    },
+    {
+        "name": "7-Zip",
+        "description": "Popular FOSS file archiver with a high compression ratio. It supports numerous archive formats, including its own 7z format, and provides powerful file management features with a user-friendly interface.",
+        "notes": "",
+        "publisher": "Igor Pavlov",
+        "publisherURL": "https://www.7-zip.org/",
+        "pricing": "free",
+        "homepage": "https://www.7-zip.org/",
+        "downloadUrl": "https://www.7-zip.org/download.html",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/3/32/7-Zip_Icon.svg",
+        "categories": [
+            "Utilities",
+            "System tools",
+            "Open-source"
+        ],
+        "compatibleWith": [
+            "Windows",
+            "Linux"
+        ]
+    },
+    {
+        "name": "Enpass",
+        "description": "Secure and reliable password manager that helps you store, manage, and organize your passwords and other personal information. Enpass keeps sensitive data protected and in sync across wearables, phones, tablets, web browsers, and all desktop OS', ensuring it's always safe, and available when you need it.",
+        "notes": "It's kinda difficult sometimes to find an app that covers all the bases so well, and is still actively maintained. All without downtime or issue! I love being able to grab an OTP from my wrist, it's way handier than unlocking my phone every time.",
+        "publisher": "Enpass Technologies Inc.",
+        "publisherURL": "https://www.enpass.io/about/",
+        "pricing": "freemium",
+        "homepage": "https://www.enpass.io/",
+        "downloadUrl": "https://www.enpass.io/downloads/",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/en/1/1f/Enpass_for_Android_logo.png",
+        "categories": [
+            "Utilities",
+            "Web based"
+        ],
+        "compatibleWith": [
+            "Windows",
+            "macOS",
+            "Linux",
+            "Android",
+            "iOS"
+        ]
+    },
+    {
+        "name": "Rufus",
+        "description": "Fast and reliable utility that helps format and create bootable USB drives. Whether you need to install a new operating system, run a live USB, or flash firmware, Rufus is a go-to tool for creating USB installation media from ISO files.",
+        "notes": "",
+        "publisher": "Akeo Consulting",
+        "publisherURL": "https://akeo.ie/",
+        "pricing": "free",
+        "homepage": "https://rufus.ie/",
+        "downloadUrl": "https://rufus.ie/en/",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/d/de/Rufus-logo.png",
+        "categories": [
+            "Utilities",
+            "System tools",
+            "Futur3Sn0w Essentials"
+        ],
+        "compatibleWith": [
+            "Windows"
+        ]
+    },
+    {
+        "name": "VMware Family",
+        "description": "Provides powerful desktop virtualization solutions, allowing users to run multiple operating systems on a single machine. With features like seamless integration, advanced networking, and support for a wide range of operating systems, these tools are essential for developers, testers, and IT professionals.",
+        "notes": "",
+        "publisher": "VMware, Inc.",
+        "publisherURL": "https://www.vmware.com/info/trust-center",
+        "pricing": "free",
+        "homepage": "https://www.vmware.com/products/workstation-pro.html",
+        "downloadUrl-A": "Download Fusion,https://softwareupdate.vmware.com/cds/vmw-desktop/fusion/",
+        "downloadUrl-B": "Download Workstation,https://softwareupdate.vmware.com/cds/vmw-desktop/ws/",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Vmware_workstation_16_icon.svg",
+        "categories": [
+            "Utilities",
+            "System tools"
+        ],
+        "compatibleWith": [
+            "Windows",
+            "Linux"
+        ]
+    },
+    {
+        "name": "LocalSend",
+        "description": "A seamless, open-source, cross-platform alternative to AirDrop. Enables cross-platform, secure communication between devices using a REST API and HTTPS encryption. Unlike other messaging apps that rely on external servers, LocalSend doesn't require an internet connection or third-party servers, making it a fast and reliable solution for local communication.",
+        "notes": "Sharing files across platforms has, and seems like it will always be a nightmare. If you want a bit mroe than a browser-based tool can offer, LocalSend is a great installable option that has no sign-up required; just pick your files and send!",
+        "publisher": "Tienisto",
+        "publisherURL": "https://github.com/Tienisto",
+        "pricing": "free",
+        "homepage": "https://localsend.org",
+        "downloadUrl": "https://localsend.org/download",
+        "iconUrl": "https://avatars.githubusercontent.com/u/120677616?s=200&v=4",
+        "categories": [
+            "Utilities",
+            "Futur3Sn0w Essentials",
+            "Web based",
+            "Open-source"
+        ],
+        "compatibleWith": [
+            "Windows",
+            "macOS",
+            "Linux",
+            "Android",
+            "iOS"
+        ]
     }
 ]

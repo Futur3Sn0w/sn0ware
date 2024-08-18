@@ -9,10 +9,6 @@
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 
-    <script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js"></script>
-    <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css" />
-    <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
-
     <script src="script.js" defer></script>
 </head>
 
@@ -22,7 +18,11 @@
             <i class="fa-solid fa-cart-arrow-down"></i>
             <p>Sn0ware</p>
         </div>
-        <input type="text" id="search-box" placeholder="Find an app...">
+        <div class="search-container">
+            <i class="fa-solid fa-search"></i>
+            <input type="text" id="search-box" placeholder="Find an app">
+        </div>
+
         <div id="os-badge">Unknown OS</div>
     </div>
     <div class="sidebar">
@@ -33,7 +33,19 @@
         <button id="close-expanded-view"><i class="fa-solid fa-close"></i></button>
     </div>
 
-    <div id="software-list"></div>
+    <div class="software-area">
+        <div class="software-header">
+            <p class="appCt"> apps</p>
+            <div class="subHead">Click on an app for more details</div>
+
+            <div class="viewToggle">
+                <input type="radio" name="listType" id="cardType" title="Card view">
+                <input type="radio" name="listType" id="listType" title="List view">
+            </div>
+        </div>
+        <div class="software-list" id="software-list"></div>
+    </div>
+
 </body>
 
 
